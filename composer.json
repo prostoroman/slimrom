@@ -27,7 +27,7 @@
     },
     "autoload":{
         "psr-0":{
-            "BCMS": "Slimrom"
+           "psr-0": { "Slimrom": "." }
         }
     }
 }
